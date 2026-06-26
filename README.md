@@ -1,3 +1,9 @@
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.**
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+> For more information, please contact <hhs_github_service_desk@hhs.gov>.
+
 The ServiceNow Data Mart Loader (SNDML) is a Java command-line application which exports data from ServiceNow to an SQL database such as MySQL, PostgreSQL, Oracle or Microsoft SQL Server. SNDML uses the ServiceNow REST API to extract data from ServiceNow. It uses JDBC to load target tables. It creates tables in the target database based on extracted meta-data. It supports a variety of load and synchronization operations. 
 
 For information about this product visit the wiki:
